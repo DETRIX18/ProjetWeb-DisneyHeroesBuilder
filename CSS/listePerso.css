@@ -1,0 +1,6 @@
+#listeDesPersos{
+    position: relative;
+    display: block;
+    height: 55%;
+    background: linear-gradient(purple, black)
+}

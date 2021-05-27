@@ -1,0 +1,30 @@
+/*Definition de la police d'écriture pour le header*/
+@font-face {
+    font-family: "cartoon";
+    src: url(policeEcriture/font-Header.otf
+    );
+}
+
+
+
+/*Gestion Header*/
+h1{
+    color: white;
+    position: relative;
+    font-family: cartoon;
+    font-size: 300%;
+    padding-top: 0.50%;
+}
+header{
+    padding-top: 5%;
+    padding-bottom : 5%;
+}
+#titre{
+    background-color: purple;
+    height: 95px;
+    display:flex;
+}
+#icone{
+    padding: 0.25%;
+    height: 85px;;
+}
